@@ -114,6 +114,13 @@ Example command:
 - Twitter: [@IsmailMayito](https://twitter.com/IsmailMayito)
 - LinkedIn: [mayito-ismail](https://www.linkedin.com/in/mayito-ismail-2b0067178/)
 
+👤 **Uzair Manzoor**
+
+- GitHub: [@Uzair-Manzoor](https://github.com/Uzair-Manzoor)
+- Twitter: [@Uzair-Manzoor](https://twitter.com/uzairkiyani5555)
+- LinkedIn: [Uzair-Manzoor](https://www.linkedin.com/in/uzair-manzoor-b69996115/)
+
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
